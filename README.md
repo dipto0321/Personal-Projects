@@ -6,7 +6,7 @@ In this repo I add links to all the repos and pull requests of projects and chal
 
 | Index | Projects page                                                           | Done  |
 | :---- | :---------------------------------------------------------------------- | :---: |
-| 0.    | [Problem Solving - Data Structure & Algorithm](./dir/PROBLEMSOLVING.md) | 0     |
+| 0.    | [Problem Solving - Data Structure & Algorithm](./dir/PROBLEMSOLVING.md) | 11    |
 | 1.    | [Open Source Project Contribution](./dir/OPENSOURCEPROJ.md)             | 0     |
 | 2.    | [HTML & CSS Projects](./dir/HTMLCSS.md)                                 | 0     |
 | 3.    | [Ruby Projects](./dir/RUBY.md)                                          | 0     |
