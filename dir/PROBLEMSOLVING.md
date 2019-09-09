@@ -1,18 +1,13 @@
 ## Problem Solving - Data Structure & Algorithm
 
-| Problem Title with Link                                   | Used Lang | Website     | Description                                                                                  | Solution                                                                                                             |
-| :-------------------------------------------------------- | :-------- | :---------: | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| [Two Fer](https://exercism.io/my/tracks/ruby)             | Ruby      | exercism.io | Two-fer or 2-fer is short for two for one. One for you and one for me.                       | [Solution](https://exercism.io/tracks/ruby/exercises/two-fer/solutions/f6deae5e34be41849147ef973c901637)             |
-| [Acronym](https://exercism.io/my/tracks/ruby)             | Ruby      | exercism.io | Convert a long phrase to its acronym                                                         | [Solution](https://exercism.io/tracks/ruby/exercises/acronym/solutions/6e432af658de4b45b1f9322ae76f2681)             |
-| [Isogram](https://exercism.io/my/tracks/ruby)             | Ruby      | exercism.io | Determine if a word or phrase is an isogram.                                                 | [Solution](https://exercism.io/tracks/ruby/exercises/isogram/solutions/488f38c6e18e4847afdeca5eea623bf5)             |
-| [Matrix](https://exercism.io/my/tracks/ruby)              | Ruby      | exercism.io | Given a string representing a matrix of numbers, return the rows and columns of that matrix. | [Solution](https://exercism.io/tracks/ruby/exercises/matrix/solutions/705e116b32da4904bd1142ec9a10c434)              |
-| [Hamming](https://exercism.io/my/tracks/ruby)             | Ruby      | exercism.io | Calculate the Hamming difference between two DNA strands.                                    | [Solution](https://exercism.io/tracks/ruby/exercises/hamming/solutions/9053d2be07fb44ccb1290fb80d324675)             |
-| [Pangram](https://exercism.io/my/tracks/ruby)             | Ruby      | exercism.io | Determine if a sentence is a pangram.                                                        | [Solution](https://exercism.io/tracks/ruby/exercises/pangram/solutions/b4d627032456430ca9d3af6ef95c14d8)             |
-| [Grade School](https://exercism.io/my/tracks/ruby)        | Ruby      | exercism.io | Given students' names along with the grade that they are in, create a roster for the school. | [Solution](https://exercism.io/tracks/ruby/exercises/grade-school/solutions/8840dc98d7584d4ebbfd4a4e23bee92e)        |
-| [Leap](https://exercism.io/my/tracks/ruby)                | Ruby      | exercism.io | Given a year, report if it is a leap year.                                                   | [Solution](https://exercism.io/tracks/ruby/exercises/leap/solutions/3962e493a1854309bdda63f8e49296b8)                |
-| [RNA Transcription](https://exercism.io/my/tracks/ruby)   | Ruby      | exercism.io | Given a DNA strand, return its RNA complement (per RNA transcription).                       | [Solution](https://exercism.io/tracks/ruby/exercises/rna-transcription/solutions/928e00ebc7c84454a6508aad89f5b7d7)   |
-| [Run Length Encoding](https://exercism.io/my/tracks/ruby) | Ruby      | exercism.io | Implement run-length encoding and decoding.                                                  | [Solution](https://exercism.io/tracks/ruby/exercises/run-length-encoding/solutions/c3008b63c8f94b44a594978c592fe321) |
-| [Phone Number](https://exercism.io/my/tracks/ruby)        | Ruby      | exercism.io | Clean up user-entered phone numbers so that they can be sent SMS messages.                   | [Solution](https://exercism.io/tracks/ruby/exercises/phone-number/solutions/9a3ebe6e437f4bdab5ce68e702c8132a)        |
+| Language use to Solve |       Online coding platform       | Solutions                                                                              | Counts |
+| :-------------------- | :--------------------------------: | :------------------------------------------------------------------------------------- | :----- |
+| Javascript            | [exercism.io](https://exercism.io) | [Go to profile and Select language javascript](https://exercism.io/profiles/dipto0321) | 11     |
+| Ruby                  | [exercism.io](https://exercism.io) | [Go to profile and Select language ruby](https://exercism.io/profiles/dipto0321)       | 17     |
+
+| Python                | [exercism.io](https://exercism.io) | [Go to profile and Select language python](https://exercism.io/profiles/dipto0321) | 04     |
+
+
 
 
 ___
