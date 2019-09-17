@@ -8,7 +8,7 @@ In this repo I add links to all the repos and pull requests of projects and chal
 | :---- | :---------------------------------------------------------------------- | :---: |
 | 0.    | [Problem Solving - Data Structure & Algorithm](./dir/PROBLEMSOLVING.md) |  109  |
 | 1.    | [Open Source Project Contribution](./dir/OPENSOURCEPROJ.md)             |   3   |
-| 2.    | [HTML & CSS Projects](./dir/HTMLCSS.md)                                 |   0   |
+| 2.    | [HTML & CSS Projects](./dir/HTMLCSS.md)                                 |  15   |
 | 3.    | [Ruby Projects](./dir/RUBY.md)                                          |   1   |
 | 4.    | [Ruby & Rails Projects](./dir/RUBYNRAILS.md)                            |   0   |
 | 5.    | [Python Scripting Projects](./dir/PYTHONSCRIPT.md)                      |   0   |
