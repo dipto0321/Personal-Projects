@@ -6,14 +6,14 @@ In this repo I add links to all the repos and pull requests of projects and chal
 
 | Index | Projects page                                                           | Done  |
 | :---- | :---------------------------------------------------------------------- | :---: |
-| 0.    | [Problem Solving - Data Structure & Algorithm](./dir/PROBLEMSOLVING.md) |  105  |
+| 0.    | [Problem Solving - Data Structure & Algorithm](./dir/PROBLEMSOLVING.md) |  109  |
 | 1.    | [Open Source Project Contribution](./dir/OPENSOURCEPROJ.md)             |   3   |
-| 2.    | [HTML & CSS Projects](./dir/HTMLCSS.md)                                 |   0   |
-| 3.    | [Ruby Projects](./dir/RUBY.md)                                          |   1   |
-| 4.    | [Ruby & Rails Projects](./dir/RUBYNRAILS.md)                            |   0   |
-| 5.    | [Python Scripting Projects](./dir/PYTHONSCRIPT.md)                      |   0   |
-| 6.    | [Python GUI Projects](./dir/PYTHONGUI.md)                               |   0   |
-| 7.    | [Pyhton Web Based Projects](./dir/PYTHONWEB.md)                         |   0   |
-| 8.    | [Javascript Projects](./dir/JAVASCRIPT.md)                              |   0   |
-| 9.    | [React & Redux Projects](./dir/REACTREDUX.md)                           |   0   |
-| 10.   | [Angular Projects](./dir/ANGULAR.md)                                    |   0   |
+| 2.    | [Ruby & Rails Projects](./dir/RUBYNRAILS.md)                            |   7   |
+| 3.    | [React & Redux Projects](./dir/REACTREDUX.md)                           |   4   |
+| 4.    | [Ruby Projects](./dir/RUBY.md)                                          |   1   |
+| 5.    | [Javascript Projects](./dir/JAVASCRIPT.md)                              |   0   |
+| 6.    | [Python Web Based Projects](./dir/PYTHONWEB.md)                         |   0   |
+| 7.    | [Python GUI Projects](./dir/PYTHONGUI.md)                               |   0   |
+| 8.    | [Python Scripting Projects](./dir/PYTHONSCRIPT.md)                      |   0   |
+| 9.    | [Angular Projects](./dir/ANGULAR.md)                                    |   0   |
+| 10.   | [HTML & CSS Projects](./dir/HTMLCSS.md)                                 |  15   |
